@@ -1,0 +1,17 @@
+export const LABEL = {
+  CARDHOLDERNAME: 'CARDHOLDER NAME',
+  CARDNUMBER: 'CARD NUMBER',
+  EXPDATE: 'EXP. DATE (MM/YY)',
+  CVC: 'CVC',
+  CONFIRM: 'Confirm',
+  CARDHOLDERNAME_PLACHOLDER: 'e.g.  Jane Appleseed',
+  CARDNUMBER_PLACEHOLDER: 'e.g.  1234 5678 9123 0000',
+  MM_U: 'MM',
+  YY_U: 'YY',
+  CVC_PLACEHOLDER: 'e.g.  123',
+  BLANK_ERR: "Can't be blank",
+  FORMAT_ERR: 'Wrong format, numbers only',
+  CARDNUMBER_LESS: 'Card number should have 16 digits',
+  THANK_YOU: 'THANK YOU!',
+  CARD_DETAILS: "We've added your card details",
+};
